@@ -1,0 +1,7 @@
+verbs:  be is goes go said was
+nouns: table rose Bob Joe vase
+prepositions: on with in
+articles: a the an
+modal-verb: will may does might can
+intransitive-verbs: wept weeps
+rel-pronouns: that
